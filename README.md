@@ -1,3 +1,5 @@
+E-commerce product page
+
 ## Project Setup
 
 ```sh
